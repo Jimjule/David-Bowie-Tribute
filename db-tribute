@@ -1,0 +1,32 @@
+<html>
+
+<head>
+
+</head>
+
+<body>
+  <div id="main">
+    <h1 align="center">David Bowie </h1>
+    <h3 align="center">The man who touched the lives of millions</h3>
+    <img id="bowie1" src="http://www.slate.com/content/dam/slate/articles/arts/culturebox/2016/01/david-bowie/160111_CBOX_David-Bowie-08.jpg.CROP.promo-xlarge2.jpg" alt="http://i.kinja-img.com/gawker-media/image/upload/s--Gz_sag_o--/plqeotzk1bz0wcic5tuu.jpg">
+    <h3 align="center">Some facts about Bowie:</h5>
+    <li>Born David Robert Bowie in Brixton, London on 8th January 1947.</li>
+    <li>One of his pupils is permenantly dilated after he was punched during a fight at school, over a girl.</li>
+    <li>George Underwood - the same person who punched him at school - remained a good friend of Bowie, even doing artwork for some of his earlier albums.</li>
+    <li>His first-ever release was Liza Jane/Louie Louie Go Home in June 1964, under the name of Davie Jones with The King-Bees.</li>
+    <li>He released his debut album, the self-titled David Bowie, in 1967 after playing in a host of pub and club bands.</li>
+    <li>Bowie's first hit in the UK - 1969's Space Oddity - was used by the BBC in its coverage of the moon landing.</li>
+    <li>Bowie's first US number one was his single Fame in 1975. It was co-written by John Lennon and features the former Beatle on backing vocals.</li>
+    <li>Model Twiggy features with him on the cover for his 1973 album Pin Ups.</li>
+    <li>It is estimated that Bowie sold around 140 million albums over his career.</li>
+    <li>In the 1986 film Labyrinth, Bowie plays Jareth The Goblin King.</li>
+    <li>Bowie appeared as Pontius Pilate in Martin Scorsese's The Last Temptation of Christ.</li>
+    <li>Bowie married his wife Iman in 1992, and their daughter Alexandria was born in 2000.</li>
+    <li>David Bowie died from liver cancer on 10th January 2016, just after his 69th birthday.</li>
+    <h3 align="center"><i>"Without David Bowie, popular music as we know it pretty much wouldn't exist."</i>  -Moby</h3>
+    <h2 align="center">More information about David Bowie and his works can be found on the<a href="www.davidbowie.com"> official website.</a></h2>
+  </div>
+  <h5 align="center">Written & Coded by<a href="https://www.freecodecamp.com/jimjule"> Jules Roadknight</a>.</h6>
+</body>
+
+</html>
